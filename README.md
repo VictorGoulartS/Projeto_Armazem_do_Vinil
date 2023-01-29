@@ -4,7 +4,6 @@ O Armazém do Vinil foi um projeto exigido durante o curso Análise e Desenvolvi
 
 ### - Protótipo de interface 
 Abaixo segue um protótipo de interface da Home Page do Armazém do Vinil :
-
 ![Home@1x](https://user-images.githubusercontent.com/95587339/213969696-a2b18e95-2c92-404f-86ca-acdbb57e7d4b.png)
 
-Caso queira saber um pouco mais sobre o projeto, você pode conferir o PDF fixado no repositório!
+Clique <a href="https://github.com/VictorGoulartS/Projeto_Armazem_do_Vinil/blob/main/Projeto%20Documenta%C3%A7%C3%A3o%20de%20um%20Produto%20de%20Software.pdf">aqui</a> caso queira conferir um pouco mais sobre o projeto!
